@@ -7,3 +7,5 @@ op = model.predict([ip])
 if st.button('Predict'):
   st.tile(op[0])
      
+
+      
